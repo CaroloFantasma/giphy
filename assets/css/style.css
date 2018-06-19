@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+#gifSearching {
+  margin-left: 40%;
+  margin-top: 1%;
+  width: 15%;
+}
+
+#searchBtn {
+  background-color: rgb(140, 243, 71);
+  border: solid thin black;
+  font-size: 15px;
+}
